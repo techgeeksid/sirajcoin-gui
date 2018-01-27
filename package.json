@@ -8,6 +8,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron ."
+    "rebuild":"electron-rebuild" 
   },
   "bin": {
     "sirajcoin": "bin/wallet.js",
